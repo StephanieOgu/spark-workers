@@ -14,7 +14,7 @@
         "diskSizeGb": "10",
         "diskType": "projects/nth-pottery-401004/zones/us-west4-b/diskTypes/pd-balanced",
         "labels": {},
-        "sourceImage": "projects/debian-cloud/global/images/debian-11-bullseye-v20221102"
+        "sourceImage": "projects/ubuntu-os-cloud/global/images/ubuntu-2204-jammy-v20231201"
       },
       "mode": "READ_WRITE",
       "type": "PERSISTENT"
