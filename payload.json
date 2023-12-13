@@ -9,7 +9,7 @@
     {
       "autoDelete": true,
       "boot": true,
-      "deviceName": "slave3",
+      "deviceName": "slave4",
       "initializeParams": {
         "diskSizeGb": "10",
         "diskType": "projects/nth-pottery-401004/zones/us-west4-b/diskTypes/pd-balanced",
@@ -35,7 +35,7 @@
       }
     ]
   },
-  "name": "slave3",
+  "name": "slave4",
   "networkInterfaces": [
     {
       "accessConfigs": [
